@@ -1,5 +1,4 @@
 import sys
-sys.path.append('/home/marmei/umri/python/')
 from PySide import QtCore
 import FreeCAD, scipy
 import BiotLineIntegral
