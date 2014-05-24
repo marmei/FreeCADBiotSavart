@@ -1,6 +1,4 @@
 import sys
-sys.path.append('/home/marmei/umri/python/FreeCAD/')
-sys.path.append('/home/marmei/umri/python/FieldModeling/')
 from PySide import QtGui, QtCore
 import Plot, FreeCADGui, FreeCAD, scipy
 import ConductorModel, FieldContourPlot, pylab
